@@ -1,0 +1,4 @@
+/home/kofi/FreeNet/build/CMakeFiles/server.dir
+/home/kofi/FreeNet/build/CMakeFiles/client.dir
+/home/kofi/FreeNet/build/CMakeFiles/edit_cache.dir
+/home/kofi/FreeNet/build/CMakeFiles/rebuild_cache.dir
