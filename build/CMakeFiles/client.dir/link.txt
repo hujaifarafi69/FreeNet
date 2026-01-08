@@ -1,1 +1,0 @@
-/usr/bin/c++ -pthread -Wl,--dependency-file=CMakeFiles/client.dir/link.d CMakeFiles/client.dir/client/main.cpp.o CMakeFiles/client.dir/client/gui.cpp.o CMakeFiles/client.dir/client/network.cpp.o -o client
